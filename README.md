@@ -4,6 +4,3 @@
 
 
 <a href="https://rafaoliveira93.github.io/projeto-rocketseat/">Clique aqui para visualizar a pagina</a>
-
-Ou escaneie o QRCODE
-<img src="frame.png" alt="">
